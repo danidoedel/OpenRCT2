@@ -35,6 +35,7 @@ extern "C" {
 }
 
 #include "../core/Console.hpp"
+#include "../Version.h"
 
 #define WSZ(x) L"" x
 
